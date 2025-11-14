@@ -13,6 +13,15 @@ const README_PATH = path.join(__dirname, '..', 'README.md');
 const START_MARK = '<!-- CREDLY-START -->';
 const END_MARK = '<!-- CREDLY-END -->';
 
+function escapeHtml(str) {
+  return (str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 async function fetchBadges() {
   const res = await fetch(CREDLY_JSON_URL, {
     headers: {
@@ -37,11 +46,18 @@ async function fetchBadges() {
 
     const issuedAt = item.issued_at_date || item.issued_at || '';
 
+    const image =
+      tpl.image_url ||
+      tpl.image ||
+      item.image_url ||
+      '';
+
     return {
       title: tpl.name || '',
       issuer,
       date: issuedAt,
-      url: `https://www.credly.com/badges/${item.id}/public_url`
+      url: `https://www.credly.com/badges/${item.id}/public_url`,
+      image
     };
   });
 
@@ -80,17 +96,34 @@ function buildMarkdown(badges) {
     )
     .join('\n');
 
-  const latestTableHeader =
-    '| Badge | Issuer | Issued |\n| --- | --- | --- |\n';
-  const latestTableRows = latest
+  const cardsHtml = latest
     .map(b => {
-      const title = b.title || 'Badge';
-      const issuer = b.issuer || '';
-      const date = b.date || '';
-      const link = b.url ? `[${title}](${b.url})` : title;
-      return `| ${link} | ${issuer} | ${date} |`;
+      const title = escapeHtml(b.title || 'Badge');
+      const issuer = escapeHtml(b.issuer || '');
+      const date = escapeHtml(b.date || '');
+      const img = escapeHtml(b.image || '');
+      const url = escapeHtml(b.url || '');
+
+      const dateLine = date ? `<div><small>Issued: ${date}</small></div>` : '';
+
+      return `
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="${url}" target="_blank" rel="noreferrer">
+    <img src="${img}" alt="${title}" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>${title}</strong></div>
+  ${dateLine}
+</div>`;
     })
     .join('\n');
+
+  const gridHtml = `
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; justify-content:center;">
+    ${cardsHtml}
+  </div>
+</div>
+`.trim();
 
   const viewAllLine =
     'View the full list on Credly: ' +
@@ -105,7 +138,7 @@ function buildMarkdown(badges) {
     '',
     `### Latest ${latest.length} badges`,
     '',
-    latestTableHeader + latestTableRows,
+    gridHtml,
     '',
     viewAllLine
   ].join('\n');
