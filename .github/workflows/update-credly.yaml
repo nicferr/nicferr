@@ -1,0 +1,38 @@
+# .github/workflows/update-credly.yml
+name: Update Credly badges in README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * 1"   # every Monday at 05:00 UTC
+
+jobs:
+  update-credly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run Credly updater
+        env:
+          CREDLY_JSON_URL: "https://www.credly.com/users/nicola-ferrini/badges.json"
+        run: |
+          node scripts/update-credly.js
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update Credly badges"
+            git push
+          else
+            echo "No changes to commit."
+          fi
