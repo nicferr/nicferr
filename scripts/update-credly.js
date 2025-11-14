@@ -77,7 +77,7 @@ function buildMarkdown(badges) {
     return '_No public badges found on Credly._';
   }
 
-  const maxLatest = 15; // latest 10–15 badges
+  const maxLatest = 5; // latest 10–15 badges
   const latest = badges.slice(0, maxLatest);
 
   // Group by issuer
@@ -171,3 +171,4 @@ function updateReadme(fragment) {
     process.exit(1);
   }
 })();
+
