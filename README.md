@@ -45,7 +45,7 @@
 - **Okta** · 2 badges
 - **Microsoft Most Valuable Professionals Program** · 1 badge
 
-### Latest 15 badges
+### Latest 5 badges
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
@@ -88,86 +88,6 @@
   </a>
   <div><strong>Entra Advisors Community Champion - 2025</strong></div>
   <div><small>Issued: 2025-09-19</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/f68bc04d-c319-4117-8b9a-64315ca3f193/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/113a0999-8b3d-4333-accb-29cde9dbb31e/blob" alt="Microsoft Community Rockstar (100) - 2025" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Microsoft Community Rockstar (100) - 2025</strong></div>
-  <div><small>Issued: 2025-09-12</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/a892c4ac-4f2f-4920-afdf-2305cfb809d5/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/b00ac508-c225-4304-88a6-bf73bc8b0a52/blob" alt="Accelerate Agentic AI -​ Skilled" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Accelerate Agentic AI -​ Skilled</strong></div>
-  <div><small>Issued: 2025-09-09</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/739255d1-27cd-46a3-b49a-2aad8bc9f6e0/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/92f41b16-a144-41e5-a5ab-f853faaf0939/blob" alt="Fortinet FortiGate 7.6 Operator" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Fortinet FortiGate 7.6 Operator</strong></div>
-  <div><small>Issued: 2025-08-31</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/86dd2edf-4006-4de3-848f-c0e5e06a50e8/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/73ebab75-b4d6-4fa0-b651-8edaf14f286d/blob" alt="Technical Introduction to Cybersecurity 2.0" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Technical Introduction to Cybersecurity 2.0</strong></div>
-  <div><small>Issued: 2025-08-31</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/f8403c30-1dcf-449b-acd7-4bb8106c3afd/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/a27867b1-d64f-4890-b577-89f162015407/blob" alt="Getting Started in Cybersecurity 3.0" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Getting Started in Cybersecurity 3.0</strong></div>
-  <div><small>Issued: 2025-08-30</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/15429914-83c0-4a56-b113-72ad285ab0ed/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" alt="Introduction to the Threat Landscape 3.0" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Introduction to the Threat Landscape 3.0</strong></div>
-  <div><small>Issued: 2025-08-30</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/4b351a47-794c-43d7-9a94-6f055fd6a488/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/1f70513f-98d2-4b61-b8d7-c509b9090478/blob" alt="Lifelong Learning 2025" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Lifelong Learning 2025</strong></div>
-  <div><small>Issued: 2025-08-29</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/0feae5ed-2a6b-492f-9178-61955ad9a2ec/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/5fbd5f82-7164-4849-ab15-313119c57806/blob" alt="Security Community Champion - 2025" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Security Community Champion - 2025</strong></div>
-  <div><small>Issued: 2025-08-29</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/4ecde6a3-d1e8-4142-b59c-e052553e1320/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/d14a4549-c527-47aa-8d52-d9e2be144868/blob" alt="AI Ready: How to make workloads well architected -​ Skilled" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>AI Ready: How to make workloads well architected -​ Skilled</strong></div>
-  <div><small>Issued: 2025-08-25</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/768adb8f-375c-460d-9aeb-dbe0b55d27c5/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/3ffc7f53-85fc-4f4c-8e33-645183381e37/blob" alt="Simplify agent development with Copilot Studio -​ Participant" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Simplify agent development with Copilot Studio -​ Participant</strong></div>
-  <div><small>Issued: 2025-08-25</small></div>
 </div>
   </div>
 </div>
