@@ -9,9 +9,9 @@
 ## About me
 
 - Freelance Microsoft Certified Trainer (MCT) with thousands of hours of instructor-led training  
-- Microsoft MVP (Cloud and Datacenter Management / Security) over multiple years  
-- Focus on Microsoft 365, Azure, Security, and Endpoint Management  
-- Community speaker, blogger, and contributor
+- Microsoft MVP (Cloud and Datacenter Management) over multiple years  
+- Focus on Microsoft 365, Azure, Security and Endpoint Management  
+- Community speaker, blogger and contributor
 
 ---
 
