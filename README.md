@@ -75,19 +75,19 @@
 </div>
 
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/29fef153-4a5e-43a4-b8db-2a9c8e4be145/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/f8f85d60-b1b9-44db-976d-1310db85f044/blob" alt="Security Community Influencer - 2025" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Security Community Influencer - 2025</strong></div>
+  <div><small>Issued: 2025-11-14</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/370a8734-e62c-47ba-b0d1-4726a44f2493/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/67907d00-614c-4a5f-ba7d-731cc6b006c0/blob" alt="Secure migration -​ Skilled" width="120" style="max-width:100%; height:auto;" />
   </a>
   <div><strong>Secure migration -​ Skilled</strong></div>
   <div><small>Issued: 2025-10-28</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/f9b33092-e337-4812-8688-299aa7546363/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/blob" alt="Entra Advisors Community Champion - 2025" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Entra Advisors Community Champion - 2025</strong></div>
-  <div><small>Issued: 2025-09-19</small></div>
 </div>
   </div>
 </div>
