@@ -36,13 +36,13 @@
 
 - **Cisco** · 12 badges
 - **Microsoft Security** · 8 badges
-- **Microsoft Global Partner Solutions (GPS)** · 6 badges
+- **Microsoft Global Partner Solutions (GPS)** · 7 badges
 - **Microsoft Azure Data Explorer** · 6 badges
 - **Extreme Networks** · 5 badges
 - **Fortinet** · 4 badges
 - **The Linux Foundation** · 2 badges
-- **Certiprof** · 2 badges
 - **Okta** · 2 badges
+- **Certiprof** · 1 badge
 - **Microsoft Most Valuable Professionals Program** · 1 badge
 
 ### Latest 5 badges
@@ -50,6 +50,14 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/6df71753-36d0-4a85-bf25-b7d646e0ba7b/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/2fce6a0b-24e5-425e-ba01-9b0258a6fea6/blob" alt="Data governance with Microsoft Purview -​ Skilled" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Data governance with Microsoft Purview -​ Skilled</strong></div>
+  <div><small>Issued: 2025-12-02</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/4d64f224-0ccd-455c-98d5-ca8b664d94db/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/8e94afa6-8919-474e-9124-3d5ab5fec7de/blob" alt="Implement Threat Protection with Microsoft Defender XDR solutions -​ Skilled" width="120" style="max-width:100%; height:auto;" />
@@ -80,14 +88,6 @@
   </a>
   <div><strong>Security Community Influencer - 2025</strong></div>
   <div><small>Issued: 2025-11-14</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/370a8734-e62c-47ba-b0d1-4726a44f2493/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/67907d00-614c-4a5f-ba7d-731cc6b006c0/blob" alt="Secure migration -​ Skilled" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Secure migration -​ Skilled</strong></div>
-  <div><small>Issued: 2025-10-28</small></div>
 </div>
   </div>
 </div>
