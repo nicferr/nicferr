@@ -36,7 +36,7 @@
 
 - **Cisco** · 12 badges
 - **Microsoft Security** · 8 badges
-- **Microsoft Global Partner Solutions (GPS)** · 7 badges
+- **Microsoft Global Channel Partner Sales (GCPS)** · 7 badges
 - **Microsoft Azure Data Explorer** · 6 badges
 - **Extreme Networks** · 5 badges
 - **Fortinet** · 4 badges
