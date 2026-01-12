@@ -34,12 +34,12 @@
 
 ### By issuer
 
-- **Cisco** · 12 badges
+- **Cisco** · 11 badges
 - **Microsoft Security** · 8 badges
 - **Microsoft Global Channel Partner Sales (GCPS)** · 7 badges
 - **Microsoft Azure Data Explorer** · 6 badges
+- **Fortinet** · 5 badges
 - **Extreme Networks** · 5 badges
-- **Fortinet** · 4 badges
 - **The Linux Foundation** · 2 badges
 - **Okta** · 2 badges
 - **Certiprof** · 1 badge
@@ -50,6 +50,14 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/7b67c248-51df-43c0-8605-977e035b89f3/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/eb17d3c5-12f5-4be9-87b5-a6ccff62a22b/blob" alt="Technical Introduction to Cybersecurity 3.0" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Technical Introduction to Cybersecurity 3.0</strong></div>
+  <div><small>Issued: 2026-01-07</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/6df71753-36d0-4a85-bf25-b7d646e0ba7b/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/2fce6a0b-24e5-425e-ba01-9b0258a6fea6/blob" alt="Data governance with Microsoft Purview -​ Skilled" width="120" style="max-width:100%; height:auto;" />
@@ -79,14 +87,6 @@
     <img src="https://images.credly.com/images/33013764-4132-45a5-917c-5945355597d3/blob" alt="Protect cloud, AI Platform and Apps by implementing Microsoft Defender for Cloud -​ Skilled" width="120" style="max-width:100%; height:auto;" />
   </a>
   <div><strong>Protect cloud, AI Platform and Apps by implementing Microsoft Defender for Cloud -​ Skilled</strong></div>
-  <div><small>Issued: 2025-11-14</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/29fef153-4a5e-43a4-b8db-2a9c8e4be145/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/f8f85d60-b1b9-44db-976d-1310db85f044/blob" alt="Security Community Influencer - 2025" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Security Community Influencer - 2025</strong></div>
   <div><small>Issued: 2025-11-14</small></div>
 </div>
   </div>
