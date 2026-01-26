@@ -51,6 +51,14 @@
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/c8cd0184-7fca-4388-abfb-7f945be740c7/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/33ba62e4-b26d-4b95-9121-1ad01b754224/blob" alt="Apply AI: Update Your Resume" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Apply AI: Update Your Resume</strong></div>
+  <div><small>Issued: 2026-01-21</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/7b67c248-51df-43c0-8605-977e035b89f3/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/eb17d3c5-12f5-4be9-87b5-a6ccff62a22b/blob" alt="Technical Introduction to Cybersecurity 3.0" width="120" style="max-width:100%; height:auto;" />
   </a>
@@ -79,14 +87,6 @@
     <img src="https://images.credly.com/images/78adcec7-5fbb-4352-aaa5-91c8cb15ec21/blob" alt="LFD140: GitHub for Open Standards Development" width="120" style="max-width:100%; height:auto;" />
   </a>
   <div><strong>LFD140: GitHub for Open Standards Development</strong></div>
-  <div><small>Issued: 2025-11-14</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/5b60b467-7d7a-405a-8643-08bfe2e66d8d/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/33013764-4132-45a5-917c-5945355597d3/blob" alt="Protect cloud, AI Platform and Apps by implementing Microsoft Defender for Cloud -​ Skilled" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Protect cloud, AI Platform and Apps by implementing Microsoft Defender for Cloud -​ Skilled</strong></div>
   <div><small>Issued: 2025-11-14</small></div>
 </div>
   </div>
