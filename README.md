@@ -76,7 +76,7 @@
 
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/4d64f224-0ccd-455c-98d5-ca8b664d94db/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/8e94afa6-8919-474e-9124-3d5ab5fec7de/blob" alt="Implement Threat Protection with Microsoft Defender XDR solutions -​ Skilled" width="120" style="max-width:100%; height:auto;" />
+    <img src="https://images.credly.com/images/d645b3da-e175-43b1-bf23-b87b77529341/blob" alt="Implement Threat Protection with Microsoft Defender XDR solutions -​ Skilled" width="120" style="max-width:100%; height:auto;" />
   </a>
   <div><strong>Implement Threat Protection with Microsoft Defender XDR solutions -​ Skilled</strong></div>
   <div><small>Issued: 2025-11-14</small></div>
