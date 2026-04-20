@@ -34,7 +34,7 @@
 
 ### By issuer
 
-- **Microsoft Global Channel Partner Sales (GCPS)** · 10 badges
+- **Microsoft Global Channel Partner Sales (GCPS)** · 11 badges
 - **Cisco** · 9 badges
 - **Microsoft Security** · 8 badges
 - **Microsoft Azure Data Explorer** · 6 badges
@@ -43,13 +43,20 @@
 - **The Linux Foundation** · 2 badges
 - **Certiprof** · 1 badge
 - **Microsoft Most Valuable Professionals Program** · 1 badge
-- **Okta** · 1 badge
 
 ### Latest 5 badges
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/9ad39d7f-4b3b-4530-a4af-54001141b8d1/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/105ca3f7-410a-4eff-90ca-c5196a0c2045/blob" alt="Migrate and modernize your estate on Azure - Proficient" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Migrate and modernize your estate on Azure - Proficient</strong></div>
+  <div><small>Issued: 2026-04-17</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/0c6e98a9-cf84-4e0d-aec5-b0911c64b387/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/4132d1d0-6822-4c8f-9c0d-21c0fe13a419/blob" alt="Microsoft Sales: Threat Protection -Proficient" width="120" style="max-width:100%; height:auto;" />
@@ -80,14 +87,6 @@
   </a>
   <div><strong>Apply AI: Update Your Resume</strong></div>
   <div><small>Issued: 2026-01-21</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/7b67c248-51df-43c0-8605-977e035b89f3/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/eb17d3c5-12f5-4be9-87b5-a6ccff62a22b/blob" alt="Technical Introduction to Cybersecurity 3.0" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Technical Introduction to Cybersecurity 3.0</strong></div>
-  <div><small>Issued: 2026-01-07</small></div>
 </div>
   </div>
 </div>
