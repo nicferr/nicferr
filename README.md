@@ -35,8 +35,8 @@
 ### By issuer
 
 - **Microsoft Global Channel Partner Sales (GCPS)** · 11 badges
-- **Cisco** · 9 badges
-- **Microsoft Security** · 8 badges
+- **Cisco** · 10 badges
+- **Microsoft Security** · 7 badges
 - **Microsoft Azure Data Explorer** · 6 badges
 - **Fortinet** · 5 badges
 - **Extreme Networks** · 5 badges
@@ -49,6 +49,14 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/ffdb6a10-aaf0-4dd3-b0c3-a243181cade3/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/aed0f95d-0445-4c72-82fa-8d6e37dc72a7/blob" alt="English for IT: Needs and Responsibilities" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>English for IT: Needs and Responsibilities</strong></div>
+  <div><small>Issued: 2026-04-20</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/9ad39d7f-4b3b-4530-a4af-54001141b8d1/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/105ca3f7-410a-4eff-90ca-c5196a0c2045/blob" alt="Migrate and modernize your estate on Azure - Proficient" width="120" style="max-width:100%; height:auto;" />
@@ -79,14 +87,6 @@
   </a>
   <div><strong>Implement Security Copilot across MS Security Workloads - Skilled</strong></div>
   <div><small>Issued: 2026-03-11</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/c8cd0184-7fca-4388-abfb-7f945be740c7/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/33ba62e4-b26d-4b95-9121-1ad01b754224/blob" alt="Apply AI: Update Your Resume" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Apply AI: Update Your Resume</strong></div>
-  <div><small>Issued: 2026-01-21</small></div>
 </div>
   </div>
 </div>
