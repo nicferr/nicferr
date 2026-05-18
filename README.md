@@ -34,13 +34,13 @@
 
 ### By issuer
 
-- **Microsoft Global Channel Partner Sales (GCPS)** · 11 badges
-- **Cisco** · 10 badges
+- **Microsoft Global Channel Partner Sales (GCPS)** · 13 badges
+- **Cisco** · 9 badges
 - **Microsoft Security** · 7 badges
 - **Microsoft Azure Data Explorer** · 6 badges
 - **Fortinet** · 5 badges
 - **Extreme Networks** · 5 badges
-- **The Linux Foundation** · 2 badges
+- **The Linux Foundation** · 1 badge
 - **Certiprof** · 1 badge
 - **Microsoft Most Valuable Professionals Program** · 1 badge
 
@@ -49,6 +49,22 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/4f81fddf-e13c-4854-ae21-638b3e95f2c8/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/bcdeb84f-514e-424f-8631-fed9e945c204/blob" alt="Azure: Migrate and Modernize -Proficient" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Azure: Migrate and Modernize -Proficient</strong></div>
+  <div><small>Issued: 2026-05-11</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/fde54509-119f-4864-a2ea-7f47f96cc552/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/921772c3-f7e4-4273-b37e-0de1194df48b/blob" alt="Sell with confidence: Position Microsoft Threat Protection capabilities with M365 E5 - Proficient" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Sell with confidence: Position Microsoft Threat Protection capabilities with M365 E5 - Proficient</strong></div>
+  <div><small>Issued: 2026-05-11</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/ffdb6a10-aaf0-4dd3-b0c3-a243181cade3/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/aed0f95d-0445-4c72-82fa-8d6e37dc72a7/blob" alt="English for IT: Needs and Responsibilities" width="120" style="max-width:100%; height:auto;" />
@@ -71,22 +87,6 @@
   </a>
   <div><strong>Microsoft Sales: Threat Protection -Proficient</strong></div>
   <div><small>Issued: 2026-03-13</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/ed18aee5-67b7-452a-8bde-c194e13cdd3f/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/696a089d-63d5-4362-81bb-8c8e79e31fda/blob" alt="Develop secure AI productivity foundations -​Skilled" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Develop secure AI productivity foundations -​Skilled</strong></div>
-  <div><small>Issued: 2026-03-12</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/4b4908a1-09fb-4e6e-ab4d-65d419af71ca/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/956beae0-c81d-4cf2-bbb8-0dfcc2cc87fe/blob" alt="Implement Security Copilot across MS Security Workloads - Skilled" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Implement Security Copilot across MS Security Workloads - Skilled</strong></div>
-  <div><small>Issued: 2026-03-11</small></div>
 </div>
   </div>
 </div>
