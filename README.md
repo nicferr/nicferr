@@ -36,10 +36,11 @@
 
 - **Microsoft Global Channel Partner Sales (GCPS)** · 13 badges
 - **Cisco** · 9 badges
-- **Microsoft Security** · 7 badges
-- **Microsoft Azure Data Explorer** · 6 badges
+- **Microsoft Security** · 6 badges
 - **Fortinet** · 5 badges
+- **Microsoft Azure Data Explorer** · 5 badges
 - **Extreme Networks** · 5 badges
+- **Microsoft** · 2 badges
 - **The Linux Foundation** · 1 badge
 - **Certiprof** · 1 badge
 - **Microsoft Most Valuable Professionals Program** · 1 badge
@@ -49,6 +50,22 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/330ad56e-a117-4105-a41d-b3b625c04b35/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob" alt="Microsoft Certified Trainer (MCT) 2026" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Microsoft Certified Trainer (MCT) 2026</strong></div>
+  <div><small>Issued: 2026-05-28</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/4e3df647-3708-45c2-8775-147e2bd234e9/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/15373b0e-c0f2-473e-85e0-ec9a2544419b/blob" alt="Microsoft Certified Trainer (MCT) Community Lead 2026" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Microsoft Certified Trainer (MCT) Community Lead 2026</strong></div>
+  <div><small>Issued: 2026-05-28</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/4f81fddf-e13c-4854-ae21-638b3e95f2c8/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/bcdeb84f-514e-424f-8631-fed9e945c204/blob" alt="Azure: Migrate and Modernize -Proficient" width="120" style="max-width:100%; height:auto;" />
@@ -71,22 +88,6 @@
   </a>
   <div><strong>English for IT: Needs and Responsibilities</strong></div>
   <div><small>Issued: 2026-04-20</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/9ad39d7f-4b3b-4530-a4af-54001141b8d1/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/105ca3f7-410a-4eff-90ca-c5196a0c2045/blob" alt="Migrate and modernize your estate on Azure - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Migrate and modernize your estate on Azure - Proficient</strong></div>
-  <div><small>Issued: 2026-04-17</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/0c6e98a9-cf84-4e0d-aec5-b0911c64b387/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/4132d1d0-6822-4c8f-9c0d-21c0fe13a419/blob" alt="Microsoft Sales: Threat Protection -Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Microsoft Sales: Threat Protection -Proficient</strong></div>
-  <div><small>Issued: 2026-03-13</small></div>
 </div>
   </div>
 </div>
