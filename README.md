@@ -34,12 +34,13 @@
 
 ### By issuer
 
-- **Microsoft Global Channel Partner Sales (GCPS)** · 28 badges
+- **MICROSOFT** · 27 badges
 - **Fortinet** · 5 badges
 - **The Linux Foundation** · 4 badges
 - **Microsoft Security** · 4 badges
 - **Microsoft** · 3 badges
 - **Cisco** · 2 badges
+- **Microsoft Most Valuable Professionals Program** · 1 badge
 - **IBM SkillsBuild** · 1 badge
 - **Certiprof** · 1 badge
 
@@ -48,6 +49,22 @@
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/2095a6e1-49a1-4b97-8fc5-b9f37bd9d768/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/f909ab6b-8a7f-48d1-afcb-35ac9a0c1fae/blob" alt="Cloud &amp; AI Endpoints Partner Technical Bootcamp – Skilled" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Cloud &amp; AI Endpoints Partner Technical Bootcamp – Skilled</strong></div>
+  <div><small>Issued: 2026-07-16</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/161b760c-7394-4546-9735-082c828e11b9/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob" alt="2026-2027 Microsoft Most Valuable Professional (MVP)" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>2026-2027 Microsoft Most Valuable Professional (MVP)</strong></div>
+  <div><small>Issued: 2026-07-15</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/3be8e1ff-0e52-4885-8ca8-c89ec8fc616a/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/e0644ccc-dd87-4e27-82e4-0facf461cd1f/AI_20Fundamentals_20Foundations_20for_20Understanding_20AI.png" alt="AI Fundamentals: Foundations for Understanding AI" width="120" style="max-width:100%; height:auto;" />
@@ -70,22 +87,6 @@
   </a>
   <div><strong>Modernize VMware workloads to Azure native - Proficient</strong></div>
   <div><small>Issued: 2026-07-01</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/e2daaef5-f5c5-44d7-be47-709484a75f36/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/8b72f860-e0ed-4d02-8e1f-d41e09e6ae8a/blob" alt="Sell with confidence: Position Cloud, AI Platform and Apps protection with Defender for Cloud - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Sell with confidence: Position Cloud, AI Platform and Apps protection with Defender for Cloud - Proficient</strong></div>
-  <div><small>Issued: 2026-07-01</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/dccffe53-3d86-4b6a-8ad9-75ac8bc12c92/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/c5a23a3d-f03b-4448-977c-a4627607f1ea/blob" alt="Secure migration - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Secure migration - Proficient</strong></div>
-  <div><small>Issued: 2026-06-30</small></div>
 </div>
   </div>
 </div>
