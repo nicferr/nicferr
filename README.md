@@ -34,21 +34,36 @@
 
 ### By issuer
 
-- **MICROSOFT** · 27 badges
+- **MICROSOFT** · 29 badges
 - **Fortinet** · 5 badges
 - **The Linux Foundation** · 4 badges
-- **Microsoft Security** · 4 badges
 - **Microsoft** · 3 badges
+- **Microsoft Security** · 3 badges
 - **Cisco** · 2 badges
 - **Microsoft Most Valuable Professionals Program** · 1 badge
 - **IBM SkillsBuild** · 1 badge
-- **Certiprof** · 1 badge
 
 ### Latest 5 badges
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/ce4fb313-0d5c-405e-b193-de11a4fb2218/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/b92f5429-261c-422a-af4e-b88bebe6f0a1/blob" alt="Implement Agent 365 to observe, govern, and secure Al Apps, Copilot &amp; Agents - Proficient" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Implement Agent 365 to observe, govern, and secure Al Apps, Copilot &amp; Agents - Proficient</strong></div>
+  <div><small>Issued: 2026-07-23</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/afd6cf92-d0c6-4227-a674-394114e46040/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/13a71c1b-93e0-4266-9691-eb012ebda044/blob" alt="Implement, Govern and Scale Data Security with Microsoft Purview in the era of AI -​ Skilled" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Implement, Govern and Scale Data Security with Microsoft Purview in the era of AI -​ Skilled</strong></div>
+  <div><small>Issued: 2026-07-23</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/2095a6e1-49a1-4b97-8fc5-b9f37bd9d768/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/f909ab6b-8a7f-48d1-afcb-35ac9a0c1fae/blob" alt="Cloud &amp; AI Endpoints Partner Technical Bootcamp – Skilled" width="120" style="max-width:100%; height:auto;" />
@@ -71,22 +86,6 @@
   </a>
   <div><strong>AI Fundamentals: Foundations for Understanding AI</strong></div>
   <div><small>Issued: 2026-07-08</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/71a05569-29d0-4a1a-9bf1-7651e57517d0/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/c2c954f1-9450-4e45-912b-5479d9888418/blob" alt="Microsoft Sovereign Cloud - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Microsoft Sovereign Cloud - Proficient</strong></div>
-  <div><small>Issued: 2026-07-08</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/81dd413b-b68c-4750-babe-8033f0c9bc45/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/67e7dabc-ad2f-401a-a42d-f92def7a46b9/blob" alt="Modernize VMware workloads to Azure native - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Modernize VMware workloads to Azure native - Proficient</strong></div>
-  <div><small>Issued: 2026-07-01</small></div>
 </div>
   </div>
 </div>
