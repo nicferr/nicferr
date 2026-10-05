@@ -34,20 +34,44 @@
 
 ### By issuer
 
-- **MICROSOFT** · 30 badges
+- **MICROSOFT** · 29 badges
+- **Microsoft** · 6 badges
 - **Cisco** · 4 badges
 - **The Linux Foundation** · 4 badges
-- **Microsoft** · 3 badges
-- **Microsoft Security** · 3 badges
 - **IBM SkillsBuild** · 2 badges
 - **Microsoft Most Valuable Professionals Program** · 1 badge
 - **Fortinet** · 1 badge
+- **Microsoft Security** · 1 badge
 
 ### Latest 5 badges
 
 <div align="center">
   <div style="display:flex; flex-wrap:wrap; justify-content:center;">
     
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/a2256506-b544-467b-ac82-26870cf8e4f3/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/9a3a6a2d-3dd9-49f1-baf3-72453e857a40/blob" alt="Cyber Genius 1.0" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Cyber Genius 1.0</strong></div>
+  <div><small>Issued: 2026-10-03</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/2de14adc-1673-4065-b41e-f5684dcc6610/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/3337c173-39f9-4e8e-8194-05b4ebddc4d9/blob" alt="Cyber Genius Challenge – Beyond Trust Boundaries" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Cyber Genius Challenge – Beyond Trust Boundaries</strong></div>
+  <div><small>Issued: 2026-10-03</small></div>
+</div>
+
+<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
+  <a href="https://www.credly.com/badges/9f7afd5a-a1cd-4866-9016-68c15d6f04ef/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/6b086234-88e2-4ebc-9188-1316632f424b/blob" alt="Cyber Genius Challenge – Inside the Breach" width="120" style="max-width:100%; height:auto;" />
+  </a>
+  <div><strong>Cyber Genius Challenge – Inside the Breach</strong></div>
+  <div><small>Issued: 2026-10-03</small></div>
+</div>
+
 <div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
   <a href="https://www.credly.com/badges/999fe884-b60e-4598-bc4a-52c0bfa3fb16/public_url" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/c4383b39-473a-4fb1-ae0c-c0f4d445191f/blob" alt="AI Fundamentals: Language and Vision in AI" width="120" style="max-width:100%; height:auto;" />
@@ -62,30 +86,6 @@
   </a>
   <div><strong>AI Fundamentals: Language and Vision in AI</strong></div>
   <div><small>Issued: 2026-07-30</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/d37b38af-1baa-475b-8237-deed781be5c5/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/fa29f782-3029-44f9-9fb1-631c3278a68a/blob" alt="AI Fundamentals: Foundations for Understanding AI" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>AI Fundamentals: Foundations for Understanding AI</strong></div>
-  <div><small>Issued: 2026-07-29</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/16aa27ca-3bd9-4149-b5c4-49a96b72335c/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/c7d29601-7f12-4a47-8908-3152c87e1bc0/blob" alt="Modernize and Optimize your SOC Deployment with Microsoft Sentinel - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Modernize and Optimize your SOC Deployment with Microsoft Sentinel - Proficient</strong></div>
-  <div><small>Issued: 2026-07-28</small></div>
-</div>
-
-<div style="flex:0 0 50%; box-sizing:border-box; padding:0.75rem; text-align:center;">
-  <a href="https://www.credly.com/badges/ce4fb313-0d5c-405e-b193-de11a4fb2218/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/b92f5429-261c-422a-af4e-b88bebe6f0a1/blob" alt="Implement Agent 365 to observe, govern, and secure Al Apps, Copilot &amp; Agents - Proficient" width="120" style="max-width:100%; height:auto;" />
-  </a>
-  <div><strong>Implement Agent 365 to observe, govern, and secure Al Apps, Copilot &amp; Agents - Proficient</strong></div>
-  <div><small>Issued: 2026-07-23</small></div>
 </div>
   </div>
 </div>
